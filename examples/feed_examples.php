@@ -1,4 +1,6 @@
 <?php
+
+// this is just an example. Need to give your store credentials.
 die('This is just an example and will not work without proper store credentials.');
 
 /*
